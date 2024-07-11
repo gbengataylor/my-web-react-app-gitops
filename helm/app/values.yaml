@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/anattama/my-web-react-app
+  repository: quay.io/gbengataylor/my-web-react-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 5d63f6c4cf49d9dd50de075b1ca77851ec3928d8
