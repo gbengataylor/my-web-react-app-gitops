@@ -13,7 +13,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/arunhari82/my-web-react-app-gitops.git
+    repoURL: https://github.com/gbengataylor/my-web-react-app-gitops.git
     targetRevision: HEAD
     path: ./helm/app
   destination:
