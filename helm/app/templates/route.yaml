@@ -13,6 +13,7 @@ metadata:
     openshift.io/host.generated: 'true'
 spec:
   host: react-app-demo-react-app-demo.apps.cluster-z4tjw.dynamic.redhatworkshops.io
+  to:
     kind: Service
     name: react-web-argo-application
     weight: 100
