@@ -8,7 +8,7 @@ image:
   repository: quay.io/gbengataylor/my-web-react-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: d4f5dfb96c5516667404b7257503fd7f2a869bda
+  tag: 0927248efc4909b8a97e49f80e5effa25fd161e6
 
 imagePullSecrets: []
 nameOverride: ""
